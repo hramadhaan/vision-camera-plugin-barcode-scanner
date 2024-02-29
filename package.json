@@ -68,7 +68,7 @@
     "react-native-builder-bob": "^0.20.1",
     "release-it": "^15.0.0",
     "typescript": "^4.5.2",
-    "react-native-reanimated": "^2.12.0",
+    "react-native-reanimated": "2.12.0",
     "react-native-vision-camera": "git+https://github.com/hramadhaan/react-native-vision-camera#fix-branch"
   },
   "resolutions": {
@@ -155,6 +155,6 @@
   },
   "dependencies": {
     "react-native-reanimated": "2.12.0",
-    "react-native-vision-camera": "^2.15.2"
+    "react-native-vision-camera": "git+https://github.com/hramadhaan/react-native-vision-camera#fix-branch"
   }
 }
